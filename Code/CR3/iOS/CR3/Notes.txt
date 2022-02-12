@@ -1,0 +1,160 @@
+Required Assets
+===============
+
+Lock image
+Game Title image
+Easy image
+Medium image
+Hard image
+Extreme image
+Coin image
+Numbers 0-9
+Curly Rocket logo
+Mine * 8
+Flag * 8
+--Uncovered * 8
+Background texture
+Magnify glass
+purchases screen shots ?
+
+Done
+
+Grids * 4
+
+Leaderboards
+============
+
+1024 x 1024 for each
+
+Easy levels solved
+Medium levels solved
+Hard levels solved
+Extreme levels solved
+
+Achievements
+============
+
+1024 x 1024 for each
+
+Unlocked medium (20)
+Unlocked hard (20)
+Unlocked extreme (20)
+
+Solved 10 maps (10)
+Solved 50 maps (20)
+Solved 100 maps (30)
+Solved 200 maps (40)
+
+Solved all easy maps (25)
+Solved all medium maps (50)
+Solved all hard maps (75)
+Solved all hardcore maps (100)
+
+Found a treasure chest (10)
+
+Completed game ! (200)
+
+How To Play
+===========
+
+1)
+
+Minesweeper is a puzzle game where you try to find and put flags on the mines.
+
+You find the flags by clearing the play area and deducing where the mines must be.
+
+[question marks around head]
+
+---
+
+2)
+
+Squares with mines as neighbors contain a number. This number shows how many mines are neighbors of the square.
+
+(eg) - 1 mine
+
+---
+
+3)
+
+To clear a square, tap it. WARNING - if you tap on a square with a mine in it, that is game over.
+
+[sad]
+
+---
+
+4)
+
+When you work out where a mine is, don't tap it - hold your finger on it to put a flag on it instead.
+
+(eg) - 1 mine with flag on the mine
+
+---
+
+5)
+
+eg 2 - multiple mines
+
+---
+
+6)
+
+Things can get quite complicated... but with a little practice you'll get the hang of it.
+
+(eg) - complex example
+
+---
+
+7)
+
+Curly Minesweeper helps you out in three ways
+
+[three]
+
+---
+
+8)
+
+First, pressing the 'Recon' button will start you off on a new map without you risking hitting
+a mine accidentaly.
+
+[Recon]
+
+---
+
+9)
+
+Secondly, if you get stuck you can press the 'Hint' button, and see where the mines are.
+
+[Hint]
+
+---
+
+10)
+
+Thirdly, if you make a mistake you can Undo your last move.
+
+[doh!]
+
+---
+
+11)
+
+Using aids costs you coins. You start off with 10 free coins
+and if you want some more you need to buy them. You can play Curly Minesweeper without
+using coins, but you won't be able to use the aids.
+
+---
+
+12)
+
+Buying coins is how I can afford to make games. Curly Minesweeper is free, and even 
+game developers need to eat 8)
+
+[Will Code for Food]
+
+-----
+
+13)
+
+Thanks for playing - have fun !

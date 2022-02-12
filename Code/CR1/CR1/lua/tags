@@ -1,0 +1,39 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+AddCredits	credits.lua	1;"	f	line:1
+AudioButtonBackPressed	frontendphase.lua	41;"	f	line:41
+AudioButtonBackPressedThread	frontendphase.lua	28;"	f	line:28
+AudioButtonPressed	frontendphase.lua	65;"	f	line:65
+AudioButtonPressedThread	frontendphase.lua	47;"	f	line:47
+BackgroundColorThread	main.lua	7;"	f	line:7
+CreditsBackButtonPressed	frontendphase.lua	140;"	f	line:140
+CreditsBackButtonPressedThread	frontendphase.lua	127;"	f	line:127
+CreditsButtonPressed	frontendphase.lua	159;"	f	line:159
+CreditsButtonPressedThread	frontendphase.lua	144;"	f	line:144
+CurlyRocketButtonPressed	frontendphase.lua	22;"	f	line:22
+FCApp.ColdBoot	main.lua	16;"	f	line:16
+FCApp.DidBecomeActive	main.lua	42;"	f	line:42
+FCApp.DidEnterBackground	main.lua	46;"	f	line:46
+FCApp.SupportsLandscape	main.lua	59;"	f	line:59
+FCApp.SupportsPortrait	main.lua	55;"	f	line:55
+FCApp.WarmBoot	main.lua	35;"	f	line:35
+FCApp.WillEnterForeground	main.lua	49;"	f	line:49
+FCApp.WillResignActive	main.lua	39;"	f	line:39
+FCApp.WillTerminate	main.lua	52;"	f	line:52
+FrontEndPhase.CreateCredits	frontendphase.lua	214;"	f	line:214
+FrontEndPhase.IsNowActive	frontendphase.lua	199;"	f	line:199
+FrontEndPhase.IsNowDeactive	frontendphase.lua	208;"	f	line:208
+FrontEndPhase.Update	frontendphase.lua	211;"	f	line:211
+FrontEndPhase.WillActivate	frontendphase.lua	167;"	f	line:167
+GameCenterButtonPressed	frontendphase.lua	18;"	f	line:18
+Globals.AppName	globals.lua	5;"	f	line:5
+OptionsButtonPressed	frontendphase.lua	102;"	f	line:102
+OptionsButtonPressedBack	frontendphase.lua	121;"	f	line:121
+OptionsButtonPressedBackThread	frontendphase.lua	108;"	f	line:108
+OptionsButtonPressedThread	frontendphase.lua	71;"	f	line:71
+PlayButtonPressed	frontendphase.lua	14;"	f	line:14
+PlayButtonPressedThread	frontendphase.lua	6;"	f	line:6

@@ -1,0 +1,16 @@
+<packer resourcedir="../../../../Data/CR1/Src/Resources" texturedir="../../../../Data/CR1/Src/Resources/Textures" outputdir="../.." manifest="../../texpackermanifest.xml" border="1">
+	<atlas name="main">
+		<resource name="blueball"/>
+		<resource name="greenball"/>
+		<resource name="redball"/>
+		<resource name="yellowball"/>
+		<resource name="bomb"/>
+		<resource name="gem"/>
+		<resource name="world_chicken"/>
+		<resource name="world_dog"/>
+		<resource name="world_frog"/>
+		<resource name="world_monkey"/>
+		<resource name="world_wolf"/>
+		<resource name="world_worm"/>
+	</atlas>	
+</packer>

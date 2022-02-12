@@ -1,0 +1,28 @@
+Curly Square Version History
+============================
+
+09/08/12: 1.0 - Initial launch - FC V 0.1
+
+Updated game icons
+Fixed iPad Launch icons
+Fixed quit button layout error on iPhone
+Re-enabled Flurry (doh)
+Moved to FCView Lua object
+Added leaderboards to iTunes Connect
+Fixed some View problems - ads and frame
+Turned off FCConnect in release builds
+Fixed score bar bug on game win
+
+30/08/12: 1.0.1 - Bug fix
+
+Graphical overhaul
+
+14/09/12: 1.1 - Graphical overhaul
+
+Removed all C++11 datatypes - preparing for Android build
+Centralised the platform interface
+Rebalanced the scoring weights to reward harder games
+Added iPhone5 launch image - enabling 16:9 screen
+
+
+

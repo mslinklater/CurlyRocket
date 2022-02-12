@@ -1,0 +1,4 @@
+Changelog
+=========
+
+30/1/13 - Fixed bug in solved condition

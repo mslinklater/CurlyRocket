@@ -1,0 +1,2 @@
+<packer resourcedir="../Src/Resources" texturedir="../Src/Resources/Textures" outputdir="../Assets/Textures" manifest="../Assets/texpackermanifest.xml" border="1">
+</packer>
